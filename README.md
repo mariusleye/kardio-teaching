@@ -7,3 +7,5 @@ Interaktive Lern-App für PJ-Studierende in der Kardiologie (IMC und ICU): Entsc
 Einige Module sind nur für einen geschlossenen Kreis bestimmt und liegen hier verschlüsselt. Sie öffnen sich nur über den Link der Lehrenden.
 
 Gestaltung: MedApe Design System, Universitätsklinikum Heidelberg. Symbole: Lucide (ISC-Lizenz).
+
+Ultraschall-Clips unter `medien/frei/`: The POCUS Atlas, Lizenz CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/), verändert (verkleinert, gekürzt, zugeschnitten). Urheber:innen und Quellseiten je Datei in `medien/frei/LIZENZEN.json` und in der App unter „Über diese App“. Alle übrigen Bilder, Kurven und Ultraschallbilder des Simulators erzeugt die App selbst.
