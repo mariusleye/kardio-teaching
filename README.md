@@ -1,6 +1,6 @@
 # Kardio Teaching
 
-Interaktive Lern-App für PJ-Studierende in der Kardiologie (IMC und ICU): Entscheidungsfälle, Physiologie-Sandkasten, Prozeduren, Alarm-Triage, ISBAR und EKG-Quiz. Eine einzelne HTML-Datei, läuft ohne Server und speichert nichts über Nutzer:innen.
+Interaktive Lern-App für PJ-Studierende in der Kardiologie (IMC und ICU): Entscheidungsfälle (u. a. Schock, ACS, Reanimation, Tachykardie), Physiologie-Sandkasten mit Rätselmodus, Prozeduren, Alarm-Triage, ISBAR, Befundübungen, EKG-Quiz und ein Glossar mit Normwerten. Eine einzelne HTML-Datei, läuft ohne Server und überträgt nichts. Nur Darstellung und Lernstand (Häkchen je abgeschlossenem Modul) bleiben lokal im Browser.
 
 **Hinweis:** Lehrmaterial, kein validiertes Medizinprodukt. Nicht zur Entscheidung über die Behandlung echter Patient:innen verwenden. Alle Fälle sind fiktiv, alle Inhalte sind Entwürfe und nicht fachlich freigegeben.
 
